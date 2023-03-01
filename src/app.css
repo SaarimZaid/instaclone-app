@@ -1,0 +1,79 @@
+.header{
+    height: 50px;
+    border-bottom: 1px solid #ccc;
+    padding-left: 150px;
+    padding-right: 150px;
+    box-sizing: border-box;
+}
+#header-camera{
+    float: right;
+    height: 100%;
+}
+#header-logo{
+    height: 100%;
+}
+
+.post-container{
+    width: 30%;
+    min-height: 250px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin: 25px auto;
+
+}
+.post-container .top .name{
+    font-weight: bolder;
+}
+.post-container .top .location{
+    font-size: small;
+    color: rgb(147, 145, 145);
+}
+.post-container .top{
+    padding: 10px;
+    box-sizing: border-box;
+}
+.post-container .top .menu{
+    float: right;   
+    display: flex;
+    cursor: pointer;
+}
+.post-container .top .menu .dot{
+    width: 6px;
+    height: 5px;
+    color: black;
+    background-color: black;
+    border-radius: 50%;
+    margin-right: 2px;
+}
+
+.post-container .imgSection img{
+    width: 100%;
+}
+
+.like-share .date{
+    float: right;
+    margin-right: 10px;
+}
+.like-share img{
+    height: 20px;
+    margin-left: 4px;
+    cursor: pointer;
+}
+.like-share .like{
+    font-weight: normal;
+    font-size: small;
+    margin-left: 10px;
+    color: rgb(147, 145, 145);
+}
+.like-share .date{
+    font-weight: normal;
+    font-size: small;
+    margin-left: 10px;
+    color: rgb(147, 145, 145);
+}
+
+.description{
+    padding: 10px;
+    box-sizing: border-box;
+    font-weight: bolder;
+}

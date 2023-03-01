@@ -1,0 +1,36 @@
+{
+    "user": [
+        {
+            "name": "Siva",
+            "location": "Bengaluru",
+            "likes": 64,
+            "description": "Kick start your career",
+            "PostImage": "./Mock-data/images/img1.jpg",
+            "date": "12/02/2022"
+        },
+        {
+            "name": "Neeraj",
+            "location": "Pune",
+            "likes": 30,
+            "description": "Finding peace in nature",
+            "PostImage": "./Mock-data/images/img2.jpg",
+            "date": "15/05/2022"
+        },
+        {
+            "name": "Rahul",
+            "location": "Hyderabad",
+            "likes": 30,
+            "description": "Habibi come to dubai...",
+            "PostImage": "./Mock-data/images/img3.jpg",
+            "date": "10/06/2022"
+        },
+        {
+            "name": "Saarim Zaid",
+            "location": "Haldwani",
+            "likes": 102,
+            "description": "Coding is fun",
+            "PostImage": "./Mock-data/images/sumoffirst.jpg",
+            "date": "27/08/2022"
+        }
+    ]
+}
